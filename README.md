@@ -89,9 +89,9 @@ Key metrics constructed:
 ## 📐 Normalization
 
 Min-Max Scaling applied:
-$$
-X_{\text{norm}} = \frac{X - X_{\min}}{X_{\max} - X_{\min}}
-$$
+
+
+X_norm = (X − X_min) / (X_max − X_min)
 
 
 Ensures:
