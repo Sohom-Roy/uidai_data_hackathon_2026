@@ -136,20 +136,6 @@ File:uidai_hackathon_dashboard.pbix
 
 ---
 
-## 🗂️ Project Structure
-
-├── api_data_aadhar_enrolment/
-├── api_data_aadhar_demographic/
-├── api_data_aadhar_biometric/
-├── uidai_hackathon_2026.ipynb
-├── uidai_hackathon_2026_python_script.py
-├── uidai_hackathon_2026.html
-├── uidai_hackathon_dashboard.pbix
-└── README.md
-
-
----
-
 ## 🛠️ Technologies Used
 
 - Python  
